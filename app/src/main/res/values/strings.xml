@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fun</string>
+    <string name="test_123">Test 123</string>
+    <string name="hej">Hej</string>
+    <string name="andet">Andet</string>
+    <string name="web">Web</string>
+    <string name="menu">Menu</string>
+    <string name="Stats">Stats</string>
+    <string name="Healthy">Healthy</string>
+    <string name="About">About</string>
+
+</resources>
